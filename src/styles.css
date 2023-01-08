@@ -1,0 +1,15 @@
+.App {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+
+input {
+  border-radius: 0.5rem;
+  height: 2rem;
+  width: 40%;
+  font-size: 16pt;
+}
+
+body {
+  background-color: #fde68a;
+}
