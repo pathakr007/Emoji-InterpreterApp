@@ -1,2 +1,2 @@
 # Emoji-InterpreterApp
-Created with CodeSandbox
+This is an app made in React. it takes in an Emoji and gives out meaning of that Emoji.
